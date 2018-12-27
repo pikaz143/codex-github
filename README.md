@@ -46,6 +46,7 @@ Contributions of Codex members on Github
 
 | Name | Github Username |
 |:------|:---------------:|
+| Pritam Kar | [pikaz143](https://github.com/pikaz143)
 | Subham Sagar Paira | [subhamsagar524](https://github.com/subhamsagar524)
 | Kreeti Singh | [Kreetisingh](https://github.com/Kreetisingh)
 | Subham Sinha | [sinhasubham](https://github.com/sinhasubham)
